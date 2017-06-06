@@ -6,6 +6,8 @@ title = "kim pham cv"
 
 # KIM PHAM
 
+Last updated: June 6, 2017
+
 ## PROFESSIONAL EXPERIENCE
 #### Digital Projects and Technologies Librarian, Liaison Librarian (Physics)
 December 2014-Present
@@ -274,3 +276,4 @@ See https://github.com/kimpham54
 ### PORTFOLIO
 See kimpham54.github.io
 Past projects 2014 http://kimplibcv.tumblr.com
+
