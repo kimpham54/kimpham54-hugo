@@ -12,16 +12,20 @@ cd content/post/message.md
 Make changes, edit metadata
 hugo -t=after-dark
 test by going to hugo server -t=after-dark --buildDrafts
-copy over public/ or docs/ to kimpham54.github.io repository
 ```
 
 ### Build
+
+clear public/
 
 run
 
 ```
 ./deploy.sh "commit message"
 ```
+
+copy over public/ or docs/ to kimpham54.github.io repository
+
 
 ### Theme
 
