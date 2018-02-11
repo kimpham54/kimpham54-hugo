@@ -24,7 +24,7 @@ run
 ./deploy.sh "commit message"
 ```
 
-copy over public/ or docs/ to kimpham54.github.io repository
+copy over public/ or docs/ to kimpham54.github.io repository, keep the README.md
 
 
 ### Theme
