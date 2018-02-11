@@ -4,10 +4,13 @@ licenselink = "https://github.com/comfusion/after-dark/blob/master/COPYING"
 description = "A robust, elegant dark theme for Hugo."
 homepage = "https://comfusion.github.io/after-dark/"
 tags = [
-  "minimal",
+  "minimalist",
   "responsive",
+  "technical",
   "accessible",
-  "terminal"
+  "terminal",
+  "custom themes",
+  "simple",
   "dark"
 ]
 features = [
@@ -17,7 +20,8 @@ features = [
   "Flexbox Layouts",
   "Google Analytics",
   "Disqus",
-  "Image lazyloading",
+  "BPG Image Support",
+  "Lazyloading",
   "OpenGraph",
   "Schema Structured Data",
   "Pagination",
@@ -35,8 +39,8 @@ features = [
   "Inclusive Design",
   "Theme Variants"
 ]
-min_version = 0.16
+min_version = 0.27
 
 [author]
   name = "Josh Habdas"
-  homepage = "https://habd.as"
+  homepage = "https://hackcabin.com"
