@@ -10,7 +10,7 @@
   }
 }
 .muted {
-  color: rgba(255, 152, 0, 0.9);
+  color: rgba(255, 255, 255, 0.5);
 }
 .readmore {
   margin-bottom: 2.2em;
@@ -68,7 +68,7 @@ a[itemprop="url"] {
   color: #002fa7;
 }
 a[itemprop="url"]:hover {
-  color: #fff;
+  color: #002FA7;
 }
 a[href*="://"]::after,
 a[rel*="external"] {

@@ -10,7 +10,7 @@
   }
 }
 .muted {
-  color: rgba(255, 152, 0, 0.9);
+  color: rgba(255, 255, 255, 0.5);
 }
 .readmore {
   margin-bottom: 2.2em;
@@ -51,7 +51,7 @@ blockquote cite::before {
    content: "\2014";
 }
 :target {
-  color: #002FA7;
+  color: #fff;
 }
 /* hack.css overrides and enhancements */
 .hack li ul {
@@ -61,11 +61,11 @@ blockquote cite::before {
   padding: 20px 10px;
 }
 nav a.active {
-  background-color: #002FA7;
-  color: #002FA7;
+  background-color: #ff2e88;
+  color: #fff;
 }
 a[itemprop="url"] {
-  color: #002fa7;
+  color: #ff9800;
 }
 a[itemprop="url"]:hover {
   color: #fff;
