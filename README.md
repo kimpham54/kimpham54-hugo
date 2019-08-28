@@ -9,7 +9,7 @@ Hugo site for [kimpham54.github.io](http://kimpham54.github.io/)
 ```
 hugo new post/message.md
 cd content/post/message.md
-Make changes, edit metadata
+Make changes, edit metadata, make public not a draft
 hugo -t=after-dark
 test by going to hugo server -t=after-dark --buildDrafts
 ```
@@ -23,8 +23,9 @@ run
 ```
 ./deploy.sh "commit message"
 ```
-
-copy over public/ or docs/ to kimpham54.github.io repository, keep the README.md
+pull down https://github.com/kimpham54/kimpham54.github.io
+copy over the public/ or docs/ to kimpham54.github.io repository
+keep kimpham54.github.io's README.md, .git, .gitignore
 
 
 ### Theme
