@@ -16,7 +16,7 @@ test by going to hugo server -t=after-dark --buildDrafts
 
 ### Build
 
-clear public/
+copy public/
 
 run
 
