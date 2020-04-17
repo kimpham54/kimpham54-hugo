@@ -9,14 +9,17 @@ Hugo site for [kimpham54.github.io](http://kimpham54.github.io/)
 ```
 hugo new post/message.md
 cd content/post/message.md
-Make changes, edit metadata, make public not a draft
-hugo -t=after-dark
-test by going to hugo server -t=after-dark --buildDrafts
+Make changes, edit metadata, make public not a draft. check date of post to publish
+
+
 ```
 
 ### Build
 
-run
+hugo -t=after-dark
+just to test: go to hugo server -t=after-dark --buildDrafts
+
+then run
 
 ```
 ./deploy.sh "commit message"
