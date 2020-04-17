@@ -16,13 +16,14 @@ test by going to hugo server -t=after-dark --buildDrafts
 
 ### Build
 
-copy public/
-
 run
 
 ```
 ./deploy.sh "commit message"
 ```
+
+copy public/
+
 pull down https://github.com/kimpham54/kimpham54.github.io
 copy over the public/ or docs/ to kimpham54.github.io repository
 keep kimpham54.github.io's README.md, .git, .gitignore
