@@ -1,3 +1,6 @@
+# Note: this workflow has been deprecated, i now use kimpham54.github.io exclusively
+
+
 # Introduction
 
 Hugo site for [kimpham54.github.io](http://kimpham54.github.io/)
